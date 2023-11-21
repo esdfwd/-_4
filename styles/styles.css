@@ -1,0 +1,67 @@
+rr.{
+background-color: gray;
+}
+eee.{
+    background-color: gray;
+}
+
+hhh.{
+    background-color: gray;
+}
+
+qqq.{ 
+    background-color: darkgrey;
+}
+
+
+
+
+cssCopy codebody {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  button, input[type="text"] {
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4285f4; /* Цвет Google */
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #lucky-link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #4285f4; /* Цвет Google */
+  
